@@ -110,9 +110,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Author
 
-GitHub: https://github.com/your-handle  
-Public contact (email): your-name@proton.me  
-Public contact (X): https://x.com/your-handle  
+GitHub: https://github.com/simplerphenol  
+Public contact (email): simpler08.phenol@icloud.com  
+Public contact (X): https://x.com/anetmarkova1  
 
 ## Testnet Deployment (Base Sepolia)
 
@@ -122,24 +122,18 @@ Network: Base Sepolia
 chainId (decimal): 84532  
 Explorer: https://sepolia.basescan.org  
 
-Contract #1 address:  
-your_adress  
+Contract "Control" address:  
+0xf122b01b8a82057c58f90c23a1d7aa91126d374a  
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0xf122b01b8a82057c58f90c23a1d7aa91126d374a  
+- https://sepolia.basescan.org/0xf122b01b8a82057c58f90c23a1d7aa91126d374a/0#code  
 
-Contract #2 address (optional):  
-your_adress  
-
-Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
-
-Contract #3 address (optional):  
-your_adress  
+Contract "Structs" address:  
+0x451895cf2b149e97702111bd782fe968a4f8d2ec  
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code   
+- https://sepolia.basescan.org/address/0x451895cf2b149e97702111bd782fe968a4f8d2ec  
+- https://sepolia.basescan.org/0x451895cf2b149e97702111bd782fe968a4f8d2ec/0#code  
+
 This deployment is used to validate Base-compatible tooling, account abstraction flows, and onchain read operations in a test environment prior to mainnet usage.
