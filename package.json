@@ -40,4 +40,7 @@
     },
     "@coinbase/cdp-sdk": {
       "repo": "coinbase/cdp-sdk",
-      "why": "SDK for interacting with Coinbase De
+      "why": "SDK for interacting with Coinbase Developer Platform services."
+    }
+  }
+}
